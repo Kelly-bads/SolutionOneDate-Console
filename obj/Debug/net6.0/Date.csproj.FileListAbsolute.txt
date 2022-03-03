@@ -1,0 +1,15 @@
+C:\Projetos de Desenvolvimento\Dev\Date\bin\Debug\net6.0\Date.exe
+C:\Projetos de Desenvolvimento\Dev\Date\bin\Debug\net6.0\Date.deps.json
+C:\Projetos de Desenvolvimento\Dev\Date\bin\Debug\net6.0\Date.runtimeconfig.json
+C:\Projetos de Desenvolvimento\Dev\Date\bin\Debug\net6.0\Date.dll
+C:\Projetos de Desenvolvimento\Dev\Date\bin\Debug\net6.0\ref\Date.dll
+C:\Projetos de Desenvolvimento\Dev\Date\bin\Debug\net6.0\Date.pdb
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.csproj.AssemblyReference.cache
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.AssemblyInfoInputs.cache
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.AssemblyInfo.cs
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.csproj.CoreCompileInputs.cache
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.dll
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\ref\Date.dll
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.pdb
+C:\Projetos de Desenvolvimento\Dev\Date\obj\Debug\net6.0\Date.genruntimeconfig.cache
